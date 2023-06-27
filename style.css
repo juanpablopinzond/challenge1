@@ -1,9 +1,9 @@
 body {
-    background-color: rgba(43, 70, 166, 0.559);
+    background-color: rgba(219, 221, 231, 0.559);
 }
 
 .container {
-    background-color: rgb(20, 20, 111);
+    background-color: rgb(33, 184, 189);
     padding: 20px;
     border-radius: 20px;
     width: 50%;
@@ -25,4 +25,8 @@ button {
 
 button:hover {
     background-color: rgb(0, 47, 255);
+}
+
+#average {
+    margin-top: 15px;
 }
