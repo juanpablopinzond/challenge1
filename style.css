@@ -30,3 +30,7 @@ button:hover {
 #average {
     margin-top: 15px;
 }
+
+input {
+    margin: 10px;
+}
